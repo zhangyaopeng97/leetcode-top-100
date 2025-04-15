@@ -1,4 +1,4 @@
-package com.zhangyaopeng97.learn;
+package com.zhangyaopeng97.practice;
 
 public class Main {
     public static void main(String[] args) {
